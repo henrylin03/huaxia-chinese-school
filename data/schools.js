@@ -95,12 +95,13 @@ const schools = [
     name: "Huaxia Chatswood",
     coordinates: [-33.79583359872034, 151.18745029822347],
     address: "Suite 3, 47 Neridah St, Chatswood",
+    branchContact: { name: "Yi", email: "huaxiachineseschool@yahoo.com" },
   },
   {
     name: "Neutral Bay Public School",
     coordinates: [-33.83189, 151.21997],
     address: "175 Ben Boyd Rd, Neutral Bay",
-    branchContact: { name: "Li Fan", email: "leefan1999@hotmail.com" },
+    branchContact: { name: "Lee Fan", email: "leefan1999@hotmail.com" },
     availableClasses: { day: "Friday" },
   },
 ];
